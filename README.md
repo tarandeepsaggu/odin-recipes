@@ -7,5 +7,8 @@ Green Smoothie Image - https://pixabay.com/users/crafterchef-39580535/
 
 Recipes credit: 
 
-Healthy Chicken Salad
+Healthy Chicken Salad by Yoly
 https://www.allrecipes.com/recipe/272849/healthy-chicken-salad/
+
+Green Smoothie by CozyCook
+https://www.allrecipes.com/recipe/233980/breakfast-banana-green-smoothie/
