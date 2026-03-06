@@ -1,6 +1,17 @@
 # odin-recipes
 First HTML Project about recipes
 
+Fairly straightforward HTML practice with links and images. 
+Home page contains links to several recipe pages.
+Each recipe page contains a link back to home, an image, as well as ingredients/directions.
+Image and recipe credit is given on each page. 
+
+Skills learned/practiced:
+- basic HTML boilerplate
+- links, images, and both unordered and ordered lists
+- concise and informative git commit messages
+- readme that contains a description of the project as well as skills used
+
 Images used under the Pixabay Content License
 Chicken Salad Image - https://pixabay.com/users/explorerbob-3093227/
 Green Smoothie Image - https://pixabay.com/users/crafterchef-39580535/
