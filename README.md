@@ -16,4 +16,5 @@ https://www.allrecipes.com/recipe/272849/healthy-chicken-salad/
 Green Smoothie by CozyCook
 https://www.allrecipes.com/recipe/233980/breakfast-banana-green-smoothie/
 
-
+Butter Chicken by mn
+https://www.allrecipes.com/recipe/141169/easy-indian-butter-chicken/
